@@ -1,0 +1,32 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos"
+  },
+  "hero": {
+    "title": "Bienvenue sur Brand Portal",
+    "subtitle": "Votre destination unique pour la gestion et les ressources de marque",
+    "cta": "Commencer"
+  },
+  "about": {
+    "title": "À propos de nous",
+    "description": "Nous nous engageons à aider les entreprises à gérer et développer efficacement leurs marques.",
+    "team": {
+      "title": "Notre équipe",
+      "subtitle": "Rencontrez les personnes derrière Brand Portal"
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "message": "Message",
+      "send": "Envoyer le message"
+    }
+  },
+  "footer": {
+    "description": "Votre destination unique pour la gestion et les ressources de marque.",
+    "quickLinks": "Liens rapides",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  }
+}
